@@ -1,0 +1,5 @@
+pl\userinterface\graphicuserinterface\App.class
+module-info.class
+pl\userinterface\graphicuserinterface\PrimaryController.class
+pl\userinterface\graphicuserinterface\Autor.class
+pl\userinterface\graphicuserinterface\SecondaryController.class
